@@ -5,18 +5,5 @@
 		"description": "This is folder to keep all API related to the limit service.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
-	"item": [
-		{
-			"name": "New Request",
-			"id": "25165478-a0448174-5018-46c3-9dc9-ca232cde9ab7",
-			"protocolProfileBehavior": {
-				"disableBodyPruning": true
-			},
-			"request": {
-				"method": "GET",
-				"header": []
-			},
-			"response": []
-		}
-	]
+	"item": []
 }
