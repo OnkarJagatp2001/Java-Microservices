@@ -16,8 +16,43 @@
 						"disableBodyPruning": true
 					},
 					"request": {
+						"auth": {
+							"type": "basic",
+							"basic": [
+								{
+									"key": "password",
+									"value": "ABSoj@8452422",
+									"type": "string"
+								},
+								{
+									"key": "username",
+									"value": "ojagtap@eagle.org",
+									"type": "string"
+								}
+							]
+						},
 						"method": "GET",
-						"header": []
+						"header": [
+							{
+								"key": "Accept",
+								"value": "application/json",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "http://localhost:8080/jpa/users/4/posts",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8080",
+							"path": [
+								"jpa",
+								"users",
+								"4",
+								"posts"
+							]
+						}
 					},
 					"response": []
 				}
