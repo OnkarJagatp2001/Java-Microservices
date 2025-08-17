@@ -8,7 +8,20 @@
 	"item": [
 		{
 			"name": "Basic",
-			"item": [],
+			"item": [
+				{
+					"name": "New Request",
+					"id": "25165478-93b1de3b-412e-4b9e-ba32-b186854d7d73",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			],
 			"id": "25165478-c5bb6b4e-3cce-4e06-a5a1-6ad7a6930ba7"
 		}
 	]
