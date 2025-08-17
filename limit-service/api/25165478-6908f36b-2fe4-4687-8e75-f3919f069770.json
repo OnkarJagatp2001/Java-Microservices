@@ -40,14 +40,14 @@
 							}
 						],
 						"url": {
-							"raw": "http://localhost:8080/",
+							"raw": "http://localhost:8080/limits",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
 							"port": "8080",
 							"path": [
-								""
+								"limits"
 							]
 						}
 					},
