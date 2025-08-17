@@ -10,7 +10,7 @@
 			"name": "Basic",
 			"item": [
 				{
-					"name": "New Request",
+					"name": "get limit",
 					"id": "25165478-93b1de3b-412e-4b9e-ba32-b186854d7d73",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
