@@ -5,5 +5,11 @@
 		"description": "This is folder to keep all API related to the limit service.",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
-	"item": []
+	"item": [
+		{
+			"name": "New Folder",
+			"item": [],
+			"id": "25165478-c5bb6b4e-3cce-4e06-a5a1-6ad7a6930ba7"
+		}
+	]
 }
